@@ -18,3 +18,15 @@ Tiempo:
 
 - Tipo A: Z = (Y*75)/100
 - Tipo B: Z = (Y*50)/100
+
+Ejemplo:
+
+Tipo A:
+X: 2 + 3 + 7 + 5 + 9 = 26
+Y: 26 soles
+Z: (26*75)/100 = 19.50 minutos 
+
+Tipo B:
+X: 2 + 3 + 7 + 5 + 9 = 26
+Y: (2*26) = 52 soles
+Z: (52*50)/100 = 26 minutos 
