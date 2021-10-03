@@ -8,7 +8,9 @@ Técnica principal | Dijkstra
 Decidimos utilizar este algoritmo, ya que determina el camino mas corto, dado un vertice origen, hacia el resto de los vertices en un grafo que tiene persos en cada arista.
 
 Análisi asintotico: O(n^2)
+
 *Pseudocódigo: Cola de prioridad
+
   *DIJKSTRA (Grafo G, nodo_fuente s)       
        para u ∈ V[G] hacer
            distancia[u] = INFINITO
