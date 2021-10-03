@@ -1,0 +1,4 @@
+Para este ejercicio, nos hemos basado en dos tipos de vehículos de carga, entre ellos tenemos:
+
+Tipo A: Vehículos de carga menor, el cual se encarga de entregas de paquetes pequeños. Su costo de entrega es igual al valor de la arista por la cual transitará y su tiempo de llegada es el 75% del costo total de viaje. 
+Tipo B: Vehículo de carga mayor, el cual se encarga de entregas de paquetes grandes. Su costo de entrega es el doble al valor de la arista por la cual transitará y su tiempo de llegada es el 50% del costo total de viaje.
