@@ -2,3 +2,19 @@ Para este ejercicio, nos hemos basado en dos tipos de vehículos de carga, entre
 
 Tipo A: Vehículos de carga menor, el cual se encarga de entregas de paquetes pequeños. Su costo de entrega es igual al valor de la arista por la cual transitará y su tiempo de llegada es el 75% del costo total de viaje. 
 Tipo B: Vehículo de carga mayor, el cual se encarga de entregas de paquetes grandes. Su costo de entrega es el doble al valor de la arista por la cual transitará y su tiempo de llegada es el 50% del costo total de viaje.
+
+Calculo:
+
+X: Valor total de las aristas por la cual se transitará
+Y: Costo total del viaje
+Z: Tiempo total del viaje
+
+Costo:
+
+- Tipo A: Y = X (soles)
+- Tipo B: Y = 2X (soles)
+
+Tiempo:
+
+- Tipo A: Z = (Y*75)/100
+- Tipo B: Z = (Y*50)/100
