@@ -27,3 +27,5 @@ System.out.println();
 }
 
 ~~~
+
+Análisis Asintótico: O(n)
