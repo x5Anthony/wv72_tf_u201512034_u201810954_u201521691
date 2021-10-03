@@ -10,8 +10,8 @@ Decidimos utilizar este algoritmo, ya que determina el camino mas corto, dado un
 Análisi asintotico: O(n^2)
 
 *Pseudocódigo: Cola de prioridad
-
-  *DIJKSTRA (Grafo G, nodo_fuente s)       
+~~~  
+DIJKSTRA (Grafo G, nodo_fuente s)       
        para u ∈ V[G] hacer
            distancia[u] = INFINITO
            padre[u] = NULL
@@ -26,3 +26,4 @@ Análisi asintotico: O(n^2)
                    distancia[v] = distancia[u] + peso (u, v)
                    padre[v] = u
                    adicionar(cola,(v, distancia[v]))
+~~~
